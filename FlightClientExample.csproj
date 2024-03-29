@@ -1,0 +1,55 @@
+<!---
+  Licensed to the Apache Software Foundation (ASF) under one
+  or more contributor license agreements.  See the NOTICE file
+  distributed with this work for additional information
+  regarding copyright ownership.  The ASF licenses this file
+  to you under the Apache License, Version 2.0 (the
+  "License"); you may not use this file except in compliance
+  with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing,
+  software distributed under the License is distributed on an
+  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, either express or implied.  See the License for the
+  specific language governing permissions and limitations
+  under the License.
+-->
+
+<Project Sdk="Microsoft.NET.Sdk">
+  
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.26.1" />
+    <PackageReference Include="Grpc.Core" Version="2.46.6" />
+    <PackageReference Include="Grpc.Net.Client" Version="2.61.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.62.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Core" Version="2.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="Apache.Arrow">
+      <HintPath>..\..\artifacts\Apache.Arrow\Debug\net6.0\Apache.Arrow.dll</HintPath>
+    </Reference>
+    <Reference Include="Apache.Arrow.Flight">
+      <HintPath>..\..\artifacts\Apache.Arrow.Flight\Debug\netstandard2.0\Apache.Arrow.Flight.dll</HintPath>
+    </Reference>
+    <Reference Include="Apache.Arrow.Flight.AspNetCore">
+      <HintPath>..\..\artifacts\Apache.Arrow.Flight.AspNetCore\Debug\net6.0\Apache.Arrow.Flight.AspNetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Apache.Arrow.Flight.Sql">
+      <HintPath>..\..\artifacts\Apache.Arrow.Flight.Sql\Debug\netstandard2.1\Apache.Arrow.Flight.Sql.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

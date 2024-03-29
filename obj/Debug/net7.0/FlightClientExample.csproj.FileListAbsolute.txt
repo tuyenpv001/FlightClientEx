@@ -1,0 +1,16 @@
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.csproj.AssemblyReference.cache
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.AssemblyInfoInputs.cache
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.AssemblyInfo.cs
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.csproj.CoreCompileInputs.cache
+D:\inet\csharp\arrow\csharp\artifacts\FlightClientExample\Debug\net7.0\FlightClientExample.exe
+D:\inet\csharp\arrow\csharp\artifacts\FlightClientExample\Debug\net7.0\FlightClientExample.deps.json
+D:\inet\csharp\arrow\csharp\artifacts\FlightClientExample\Debug\net7.0\FlightClientExample.runtimeconfig.json
+D:\inet\csharp\arrow\csharp\artifacts\FlightClientExample\Debug\net7.0\FlightClientExample.dll
+D:\inet\csharp\arrow\csharp\artifacts\FlightClientExample\Debug\net7.0\FlightClientExample.pdb
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.csproj.CopyComplete
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.dll
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\refint\FlightClientExample.dll
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.pdb
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\FlightClientExample.genruntimeconfig.cache
+D:\inet\csharp\arrow\csharp\examples\FlightClientExample\obj\Debug\net7.0\ref\FlightClientExample.dll
